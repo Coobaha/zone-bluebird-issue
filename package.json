@@ -1,0 +1,11 @@
+{
+  "name": "zonebluebird",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "knex": "0.15.2",
+    "zone.js": "^0.9.1"
+  }
+}
